@@ -1,0 +1,6 @@
+# Example connections to Redis OSS/source available
+localhost:6379::redis_0:0
+localhost:6379::redis_1:1
+# example connection to Redis Enterprise databases - replace 
+# <database endpoint>:<port>:<db_password>:<database name or tag>
+

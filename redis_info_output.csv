@@ -1,0 +1,4 @@
+Redis Instance,Used Memory Peak (Human),Instantaneous Ops Per Sec
+redis_0,1.49M,0
+redis_1,1.49M,0
+redis_RE_search,26.7M,0
