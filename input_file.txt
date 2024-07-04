@@ -1,6 +1,7 @@
 # Example connections to Redis OSS/source available
+# Format: <server>:<port>:<db_password - leave blank if none><redis database name or tag of your choice>:<namespace>
 localhost:6379::redis_0:0
 localhost:6379::redis_1:1
-# example connection to Redis Enterprise databases - replace 
-# <database endpoint>:<port>:<db_password>:<database name or tag>
+# Example connection to Redis Enterprise databases 
+# Format: <server or database endpoint>:<port>:<db_password><redis database name/tag of your choice>
 
